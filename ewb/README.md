@@ -497,3 +497,6 @@ Scriptul tău Bash actual poate fi integrat în următoarele moduri:
 4. **Gradual Migration** - Migrează funcționalitățile treptat
 
 Avantajul este că nu trebuie să rescrii totul - poți construi web interface-ul în jurul logicii existente!
+
+
+React, Tailwind CSS, Node.js, Express.js, MySQL, Git, GitHub, React Hooks, Relume.io, Lucide Icons, Recharts, Chart.js, Jest, React Testing Library, WebSockets, Socket.io, Sequelize, Prisma, JWT, bcrypt, Docker, Nginx, GitHub Actions, Prometheus, Grafana, ELK Stack, Cypress, Playwright, React Native, PWA
